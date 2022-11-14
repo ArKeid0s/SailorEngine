@@ -1,0 +1,3 @@
+[submodule "SailorEngine/vendor/spdlog"]
+	path = SailorEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog

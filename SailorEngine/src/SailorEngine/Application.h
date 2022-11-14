@@ -4,7 +4,7 @@
 
 namespace SailorEngine
 {
-	class SAILORENGINE_API Application
+	class SAILOR_ENGINE_API Application
 	{
 	public:
 		Application();
